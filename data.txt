@@ -1,0 +1,24 @@
+(lp0
+(lp1
+(dp2
+S'street'
+p3
+S'Kiev'
+p4
+sS'id'
+p5
+I0
+sS'name'
+p6
+S'Derek Mongatter'
+p7
+sa(dp8
+g3
+S'London'
+p9
+sg5
+I1
+sg6
+S'Gertruda Sparx'
+p10
+saa.
